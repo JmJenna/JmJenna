@@ -1,4 +1,5 @@
-<h1 align="center"> Hello there! </h1>
+<h1 align="center"> Hello World !!</h1>
+<p align="center"> I'm a full stack developer </p>
 
 
 <h1 align="center"> 🛠️ Teck Stacks 🛠️ </h1>
