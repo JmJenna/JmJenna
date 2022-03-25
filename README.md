@@ -2,7 +2,7 @@
 <p align="center"> I'm a full stack developer </p>
 
 
-<h1 align="center"> 🛠️ Teck Stacks 🛠️ </h1>
+<h1 align="center"> 🛠️ Tech Stacks 🛠️ </h1>
 
 <p align="center">
   
