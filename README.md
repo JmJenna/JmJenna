@@ -1,5 +1,5 @@
 <h1 align="center"> Hello World !!</h1>
-<p align="center"> I'm Jenna, a full stack developer </p>
+<p align="center"> I'm Jeongmin(Jenna), a full stack developer </p>
 <p align="center">  If you want to reach out to me , please email to zamma2337@gmail.com </p>
 
 
