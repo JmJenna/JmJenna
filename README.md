@@ -1,8 +1,7 @@
 <h1 align="center"> Hello World !!</h1>
 <p align="center"> I'm Jeongmin(Jenna), a full stack developer </p>
 <p align="center">  If you want to reach out to me , please email to jmchoi311@gmail.com </p>
-[✅ Portfolio ✅](https://jmjenna.herokuapp.com/) 
-
+[✅ Portfolio website ✅](http://jmjenna.herokuapp.com/) 
 
 <h1 align="center"> 🛠️ Tech Stacks 🛠️ </h1>
 
