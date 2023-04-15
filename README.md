@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=93C572&height=300&section=header&text=Jeongmin%20Choi&fontSize=80&fontColor=ffffff)
 
-<h1 align="center">I am a full stack developer</h1>
-<p align="center">  If you want to reach out to me , please email to jmchoi311@gmail.com </p>
+<h1 align="center"><i>full stack developer</i> </h1>
+<p align="center">  Let's work together! please email to jmchoi311@gmail.com </p>
 <p align="center"> [portfolio](https://jmjenna.surge.sh/) </p>
 
 
