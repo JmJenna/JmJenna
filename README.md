@@ -1,7 +1,12 @@
-<h1 align="center"> Hello World !!</h1>
-<p align="center"> I'm Jeongmin(Jenna), a full stack developer </p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jenna%20Choi&fontSize=80)
+
+<h1 align="center">Full stack developer, Jeongmin (Jenna) Choi </h1>
 <p align="center">  If you want to reach out to me , please email to jmchoi311@gmail.com </p>
 <p align="center"> [portfolio](https://jmjenna.surge.sh/) </p>
+
+
+![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmjenna&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjenna&layout=compact)](https://github.com/jmjenna/github-readme-stats)
 
 
 <h1 align="center"> 🛠️ Tech Stacks 🛠️ </h1>
@@ -25,7 +30,7 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
