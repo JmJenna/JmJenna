@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jenna%20Choi&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=93C572&height=300&section=header&text=Jeongmin%20Choi&fontSize=80&fontColor=ffffff)
 
-<h1 align="center">Full stack developer, Jeongmin (Jenna) Choi </h1>
+<h1 align="center">I am a full stack developer</h1>
 <p align="center">  If you want to reach out to me , please email to jmchoi311@gmail.com </p>
 <p align="center"> [portfolio](https://jmjenna.surge.sh/) </p>
 
@@ -32,5 +32,5 @@
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=93C572&height=200&section=footer)
 
