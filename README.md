@@ -1,8 +1,8 @@
 <h1 align="center"> Hello World !!</h1>
 <p align="center"> I'm Jeongmin(Jenna), a full stack developer </p>
 <p align="center">  If you want to reach out to me , please email to jmchoi311@gmail.com </p>
-<p align="center"> [Portfolio](https://jmjenna.surge.sh/) </p>
-[Portfolio Website](https://jmjenna.surge.sh)
+<p align="center"> [portfolio](https://jmjenna.surge.sh/) </p>
+
 
 <h1 align="center"> 🛠️ Tech Stacks 🛠️ </h1>
 
