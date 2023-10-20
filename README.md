@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=93C572&height=300&section=header&text=Jenna%20Choi&fontSize=80&fontColor=ffffff)
 
-<h1 align="center"><i>full stack developer</i> </h1>
+<h1 align="center"><i>I am a software engineer in Los Angeles</i> </h1>
 <p align="center">  Let's work together! please email to jmchoi311@gmail.com </p>   
 <h3 align="center"> 
   <a href="https://jmjenna.surge.sh">Jenna's Portfolio</a>
